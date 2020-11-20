@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS61LV256AL-10JL
+D 32K x 8 LOW VOLTAGECMOS STATIC RAM, 10ns, SOJ-28
+K SRAM MEMORY
+F https://www.mouser.ch/datasheet/2/198/61LV256AL-258426.pdf
+$ENDCMP
+#
+#End Doc Library

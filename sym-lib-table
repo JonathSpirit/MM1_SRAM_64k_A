@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name IS61LV256AL)(type Legacy)(uri ${KIPRJMOD}/libraries/IS61LV256AL.lib)(options "")(descr ""))
+  (lib (name Custom)(type Legacy)(uri ${KIPRJMOD}/libraries/Custom.lib)(options "")(descr ""))
+)
